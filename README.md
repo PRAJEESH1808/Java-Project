@@ -1,4 +1,4 @@
 # Java-Project 
-Middleware for Fullstack project using Springboot
+Middleware for Full stack project using Springboot
 Backend - SQL(XAMPP)
 Forntend React.js
